@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Love In My Heart",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-01-13T10:05:17.059249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love In My Heart",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/01_Love_In_My_Heart_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love In My Heart",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/02_Love_In_My_Heart_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love In My Heart",
+      "artist": "Don McLean",
+      "has_synced": false,
+      "path": "select/03_Love_In_My_Heart_Don_McLean.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "With The Love In My Heart",
+      "artist": "Jacob Collier",
+      "has_synced": true,
+      "path": "select/04_With_The_Love_In_My_Heart_Jacob_Collier.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Love in My Heart",
+      "artist": "Elmore James",
+      "has_synced": true,
+      "path": "select/05_No_Love_in_My_Heart_Elmore_James.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Through the Love in My Heart",
+      "artist": "The Sylvers",
+      "has_synced": false,
+      "path": "select/06_Through_the_Love_in_My_Heart_The_Sylvers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Put This Love In My Heart",
+      "artist": "Acappella",
+      "has_synced": false,
+      "path": "select/07_You_Put_This_Love_In_My_Heart_Acappella.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Love in My Heart",
+      "artist": "Elmore James",
+      "has_synced": true,
+      "path": "select/08_No_Love_in_My_Heart_Elmore_James.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Put This Love In My Heart",
+      "artist": "VeggieTales",
+      "has_synced": true,
+      "path": "select/09_You_Put_This_Love_In_My_Heart_VeggieTales.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love in My Heart for You",
+      "artist": "John Primer",
+      "has_synced": true,
+      "path": "select/10_Love_in_My_Heart_for_You_John_Primer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love in My Heart for You",
+      "artist": "Primer, John",
+      "has_synced": true,
+      "path": "select/11_Love_in_My_Heart_for_You_Primer,_John.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love In My Heart",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_Love_In_My_Heart_BABYMONSTER.txt"
+    }
+  ]
+}
